@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 
+//Inicia o Código
 void main() {
   runApp(new MaterialApp(
     debugShowCheckedModeBanner: false,
@@ -13,6 +14,7 @@ class MyApp extends StatefulWidget {
   _MyAppState createState() => new _MyAppState();
 }
 
+//Tela splash
 class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
@@ -28,6 +30,7 @@ class _MyAppState extends State<MyApp> {
   }
 }
 
+//Tela de Buscar Item
 class AfterSplash extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -47,11 +50,20 @@ class AfterSplash extends StatelessWidget {
                   color: Colors.white,
                   border: Border.all(color: Colors.blueAccent, width: 4),
                   borderRadius: BorderRadius.circular(12)),
-              child: ListTile(
-                title: Text('Insira o tipo de cancer ou marcador tumoral'),
-                trailing: Icon(
-                  Icons.search,
-                  color: Colors.black,
+              child: Container(
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  children: [
+                    Text(
+                      "Insira o tipo de cancer ou marcador tumoral",
+                      style: TextStyle(fontSize: 15, color: Colors.black),
+                    ),
+                    Icon(
+                      Icons.search,
+                      color: Colors.black,
+                    ),
+                  ],
                 ),
               ),
             ),
@@ -60,7 +72,7 @@ class AfterSplash extends StatelessWidget {
       ),
       body: new Center(
         child: new Text(
-          "Done!",
+          " ",
           style: new TextStyle(fontWeight: FontWeight.bold, fontSize: 30.0),
         ),
       ),

@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:splashscreen/splashscreen.dart';
 
 //Inicia o Código
 void main() {
   runApp(new MaterialApp(
     debugShowCheckedModeBanner: false,
-    home: new MyApp(),
-  ));
+    home: MyApp(),
+  ),);
 }
 
 class MyApp extends StatefulWidget {
@@ -18,15 +17,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
-    return new SplashScreen(
-        seconds: 5,
-        navigateAfterSeconds: new AfterSplash(),
-        backgroundColor: Color.fromRGBO(0, 229, 255, 0),
-        image: Image(image: AssetImage('assets/splash.png')),
-        styleTextUnderTheLoader: new TextStyle(),
-        photoSize: 100.0,
-        onClick: () => print("Flutter Egypt"),
-        loaderColor: Colors.blue);
+    return AfterSplash();
   }
 }
 

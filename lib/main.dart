@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:marcadorestumorais/pages/result_list_page.dart';
 import 'package:marcadorestumorais/pages/search_page.dart';
 
 //Inicia o Código
@@ -20,16 +21,6 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      extendBodyBehindAppBar: true,
-      appBar: AppBar(
-        elevation: 0,
-        backgroundColor: Colors.transparent,
-        bottom: PreferredSize(
-          preferredSize: Size.fromHeight(48.0),
-          child: SearchPage(),
-        ),
-      ),
-    );
+    return SearchPage();
   }
 }

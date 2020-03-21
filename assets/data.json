@@ -1,0 +1,27 @@
+[{
+    "type": "marcador",
+    "title": "Alfa-fetoproteína (AFP)",
+    "cancerTypes": "câncer de fígado e tumores de células germinativas",
+    "analysisObj": "sangue",
+    "usedFor": "diagnóstico do câncer de fígado e monitorar a resposta ao tratamento; estadiamento, prognóstico e monitorar a resposta ao tratamento de tumores de células germinativas"
+},
+{
+    "type": "cancer",
+    "title": "Câncer de Fígado",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+}, {
+        "type": "cancer",
+        "title": "Tumores de células germinativas\n",
+        "cancerTypes": "",
+        "analysisObj": "",
+        "usedFor": ""
+    },
+    {
+        "type": "marcador",
+        "title": "ALK rearranjos e superexpressão\n",
+        "cancerTypes": "câncer de pulmão de não pequenas células e linfoma anaplásico de grandes células",
+        "analysisObj": "tumor",
+        "usedFor": "determinar o tratamento e prognóstico"
+    }]

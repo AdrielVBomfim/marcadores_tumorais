@@ -7,8 +7,13 @@ import '../database/dao/encItemDAO.dart';
 
 class ResultListPage extends StatelessWidget {
   bool flag;
+  String searchTerm;
 
-  ResultListPage({this.flag = false});
+  ResultListPage({this.flag = false, this.searchTerm});
+
+  List<EncItem> _filterItems(List<EncItem> itens, String searchTerm){
+
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -22,6 +27,8 @@ class ResultListPage extends StatelessWidget {
               child: CircularProgressIndicator(),
             );
           else{
+            print(searchTerm);
+            //List<EncItem> filteredList = _filterItems(snapshot.data, searchTerm);
             return flag
                 ? Scaffold(
                     appBar: AppBar(
@@ -51,10 +58,12 @@ class ResultListPage extends StatelessWidget {
                                   children: <Widget>[
                                     //Image(image: AssetImage('assets/medicine.png')),
                                     SizedBox(width: 10.0),
-                                    Text(
-                                      snapshot.data[index].title,
-                                      style: GoogleFonts.rubik(
-                                        fontWeight: FontWeight.w500,
+                                    Flexible(
+                                      child: Text(
+                                        snapshot.data[index].title,
+                                        style: GoogleFonts.rubik(
+                                          fontWeight: FontWeight.w500,
+                                        ),
                                       ),
                                     ),
                                   ],

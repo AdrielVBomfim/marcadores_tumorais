@@ -1,31 +1,969 @@
 [{
-    "type": "marcador",
-    "title": "Alfa-fetoproteína (AFP)",
-    "description": "descricao 1",
+  "type": "marcador",
+  "title": "Alfa-fetoproteína (AFP)",
+  "description": "descrição",
     "cancerTypes": "câncer de fígado e tumores de células germinativas",
-    "analysisObj": "sangue",
-    "usedFor": "diagnóstico do câncer de fígado e monitorar a resposta ao tratamento; estadiamento, prognóstico e monitorar a resposta ao tratamento de tumores de células germinativas"
+  "analysisObj": "sangue",
+  "usedFor": "diagnóstico do câncer de fígado e monitorar a resposta ao tratamento; estadiamento, prognóstico e monitorar a resposta ao tratamento de tumores de células germinativas"
 },
-{
+  {
+    "type": "marcador",
+    "title": "ALK rearranjos e superexpressão\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de pulmão de não pequenas células e linfoma anaplásico de grandes células",
+    "analysisObj": "tumor",
+    "usedFor": "determinar o tratamento e prognóstico"
+  },
+  {
+    "type": "marcador",
+    "title": "Amplificação do gene HER2/neu ou superexpressão de proteínas\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama, câncer de ovário, câncer de bexiga, câncer de pâncreas e câncer de estômago",
+    "analysisObj": "tumor",
+    "usedFor": "determinar se o tratamento com determinadas terapias-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "Ativador do plasminogênio da uroquinase (uPA) e inibidor do ativador do plasminogênio (PAI-1)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama",
+    "analysisObj": "tumor",
+    "usedFor": "determinar a agressividade do tumor e orientar o tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "Assinatura de 5 proteínas\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de ovário",
+    "analysisObj": "sangue",
+    "usedFor": "avaliar no pré-operatório a massa pélvica suspeita de câncer de ovário"
+  },
+  {
+    "type": "marcador",
+    "title": "Assinatura de 17 genes\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de próstata",
+    "analysisObj": "tumor",
+    "usedFor": "prever a agressividade do tumor e monitorar o tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "Assinatura de 21 genes\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama",
+    "analysisObj": "tumor",
+    "usedFor": "avaliar o risco de recidiva e planejar o tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "Assinatura de 46 genes\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de próstata",
+    "analysisObj": "tumor",
+    "usedFor": "prever a agressividade do tumor e monitorar o tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "Assinatura de 70 genes\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama",
+    "analysisObj": "tumor",
+    "usedFor": "avaliar o risco de recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Beta-2-microglobulina (B2M)\n",
+    "description": "descrição",
+    "cancerTypes": "mieloma múltiplo, leucemia linfoide crônica e alguns linfomas",
+    "analysisObj": "sangue, urina ou líquido cefalorraquidiano",
+    "usedFor": "determinar o prognóstico e monitorar a resposta ao tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "Beta-hCG (Gonadotrofina coriônica humana beta)\n",
+    "description": "descrição",
+    "cancerTypes": "coriocarcinoma e tumores de células germinativas",
+    "analysisObj": "urina ou sangue",
+    "usedFor": "estadiamento, prognóstico e monitorar a resposta ao tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "BRAF V600\n",
+    "description": "descrição",
+    "cancerTypes": "melanoma cutâneo, doença de Erdheim-Chester, câncer colorretal e câncer de pulmão de não pequenas células",
+    "analysisObj": "tumor",
+    "usedFor": "selecionar pacientes com maior probabilidade de se beneficiar do tratamento com determinadas terapias-alvo"
+  },
+  {
+    "type": "marcador",
+    "title": "BRCA1 e BRCA2 Mutações nos genes\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de ovário e câncer de mama",
+    "analysisObj": "sangue e/ou tumor",
+    "usedFor": "determinar se o tratamento com um tipo específico de terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "BTA (Antígeno tumoral da bexiga)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de bexiga e câncer de rim ou ureter",
+    "analysisObj": "urina",
+    "usedFor": "vigilância com citologia e cistoscopia de pacientes diagnosticados com câncer de bexiga"
+  },
+  {
+    "type": "marcador",
+    "title": "Catecolaminas na urina: VMA e HVA\n",
+    "description": "descrição",
+    "cancerTypes": "neuroblastoma",
+    "analysisObj": "urina",
+    "usedFor": "diagnóstico"
+  },
+  {
+    "type": "marcador",
+    "title": "Catecolaminas na urina: VMA e HVA\n",
+    "description": "descrição",
+    "cancerTypes": "neuroblastoma",
+    "analysisObj": "urina",
+    "usedFor": "diagnóstico"
+  },
+  {
+    "type": "marcador",
+    "title": "CEA (Antígeno carcinoembrionário)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer colorretal e alguns outros tipos de câncer",
+    "analysisObj": "sangue",
+    "usedFor": "monitorar a resposta ao tratamento e verificar se a doença recidivou ou se disseminou"
+  },
+  {
+    "type": "marcador",
+    "title": "Células tumorais circulantes de origem epitelial\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama avançado, câncer de próstata e câncer colorretal",
+    "analysisObj": "sangue",
+    "usedFor": "prognóstico"
+  },
+  {
+    "type": "marcador",
+    "title": "C-kit/CD117\n",
+    "description": "descrição",
+    "cancerTypes": "tumor estromal gastrointestinal, melanoma da mucosa, leucemia mieloide aguda e doença mastocitária",
+    "analysisObj": "tumor, sangue ou medula óssea",
+    "usedFor": "diagnóstico e determinação do tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "CA15-3/CA27.29\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama",
+    "analysisObj": "sangue",
+    "usedFor": "monitorar a resposta ao tratamento e avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "CA19-9\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de pâncreas, vesícula biliar, ducto biliar e gástrico",
+    "analysisObj": "sangue",
+    "usedFor": "monitorar a resposta ao tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "CA-125\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de ovário",
+    "analysisObj": "sangue",
+    "usedFor": "diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "CA 27.29\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama",
+    "analysisObj": "sangue",
+    "usedFor": "diagnosticar metástase ou avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "CA 27.29\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama",
+    "analysisObj": "sangue",
+    "usedFor": "diagnosticar metástase ou avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Calcitonina\n",
+    "description": "descrição",
+    "cancerTypes": "câncer medular da tireoide",
+    "analysisObj": "sangue",
+    "usedFor": "diagnosticar metástase ou avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "CD20\n",
+    "description": "descrição",
+    "cancerTypes": "linfoma não-Hodgkin",
+    "analysisObj": "sangue",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "CD22\n",
+    "description": "descrição",
+    "cancerTypes": "leucemia de células pilosas e neoplasias de células B",
+    "analysisObj": "sangue e medula óssea",
+    "usedFor": "diagnóstico"
+  },
+  {
+    "type": "marcador",
+    "title": "CD25\n",
+    "description": "descrição",
+    "cancerTypes": "linfoma não Hodgkin (célula T)",
+    "analysisObj": "sangue",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "CD30\n",
+    "description": "descrição",
+    "cancerTypes": "micose fungóide e linfoma de células T periférico",
+    "analysisObj": "tumor",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "CD33\n",
+    "description": "descrição",
+    "cancerTypes": "leucemia mieloide aguda",
+    "analysisObj": "sangue",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "CDx (F1CDx)\n",
+    "description": "descrição",
+    "cancerTypes": "qualquer tumor sólido",
+    "analysisObj": "tumor",
+    "usedFor": "diagnóstico complementar para determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "Cromogranina A (CgA)\n",
+    "description": "descrição",
+    "cancerTypes": "tumores neuroendócrinos",
+    "analysisObj": "sangue",
+    "usedFor": "diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Cromossomos 3, 7, 17 e 9p21\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de bexiga",
+    "analysisObj": "urina",
+    "usedFor": "monitoramento da recidiva do tumor"
+  },
+  {
+    "type": "marcador",
+    "title": "DCP (Des-gama-carboxi-protrombina)\n",
+    "description": "descrição",
+    "cancerTypes": "carcinoma hepatocelular",
+    "analysisObj": "sangue",
+    "usedFor": "monitorar a eficácia do tratamento e diagnóstico da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Desidrogenase láctica (LDH)\n",
+    "description": "descrição",
+    "cancerTypes": "tumores de células germinativas, linfoma, leucemia, melanoma e neuroblastoma",
+    "analysisObj": "sangue",
+    "usedFor": "estadiamento, prognóstico e monitorar a resposta ao tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "DPD Mutação no gene\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama, câncer colorretal, câncer de estômago e câncer de pâncreas",
+    "analysisObj": "sangue",
+    "usedFor": "prever o risco de uma reação tóxica ao tratamento com 5-fluorouracil"
+  },
+  {
+    "type": "marcador",
+    "title": "EGFR\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de pulmão de não pequenas células",
+    "analysisObj": "tumor",
+    "usedFor": "determinar o tratamento e o prognóstico"
+  },
+  {
+    "type": "marcador",
+    "title": "Enolase específica de neurônios (NSE)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de pulmão de pequenas células e neuroblastoma",
+    "analysisObj": "sangue",
+    "usedFor": "diagnóstico e monitorar a resposta ao tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "Exclusão do cromossomo 17p\n",
+    "description": "descrição",
+    "cancerTypes": "leucemia linfocítica crônica",
+    "analysisObj": "sangue",
+    "usedFor": "determinar se o tratamento com determinada terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "FGFR2 e FGFR3 Mutações nos genes\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de bexiga",
+    "analysisObj": "tumor",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "FLT3 Mutações no gene\n",
+    "description": "descrição",
+    "cancerTypes": "leucemia mieloide aguda",
+    "analysisObj": "sangue",
+    "usedFor": "determinar se o tratamento com determinadas terapias-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "Fibrina/Fibrinogênio\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de bexiga",
+    "analysisObj": "urina",
+    "usedFor": "monitorar a progressão e monitorar a resposta ao tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "Fragmento de citoqueratina 21-1\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de pulmão",
+    "analysisObj": "sangue",
+    "usedFor": "monitoramento da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Fosfatase ácida prostática (PAP)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de próstata avançado",
+    "analysisObj": "sangue",
+    "usedFor": "diagnóstico de carcinomas pouco diferenciados"
+  },
+  {
+    "type": "marcador",
+    "title": "Fusão do gene PML/RARa\n",
+    "description": "descrição",
+    "cancerTypes": "leucemia promielocítica aguda (LPA)",
+    "analysisObj": "sangue e medula óssea",
+    "usedFor": "diagnosticar a LPA, prever a resposta à terapia com ácido trans-retinóico ou trióxido de arsênico, avaliar a eficácia do tratamento, monitorar a doença residual mínima e prever recidivas precoces"
+  },
+  {
+    "type": "marcador",
+    "title": "Gastrina\n",
+    "description": "descrição",
+    "cancerTypes": "tumor produtor de gastrina (gastrinoma)",
+    "analysisObj": "sangue",
+    "usedFor": "diagnóstico, monitorar a eficácia do tratamento e avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Gene de fusão BCR-ABL (cromossomo Philadelphia)\n",
+    "description": "descrição",
+    "cancerTypes": "leucemia mieloide crônica, leucemia linfoide aguda e leucemia mieloide aguda",
+    "analysisObj": "sangue ou medula óssea",
+    "usedFor": "diagnóstico, monitorar a resposta à terapia-alvo, determinar se o tratamento com um tipo específico de terapia-alvo é indicado e monitorar o status da doença"
+  },
+  {
+    "type": "marcador",
+    "title": "HE4\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de ovário",
+    "analysisObj": "sangue",
+    "usedFor": "planejamento do tratamento, avaliar a progressão da doença e monitorar a recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Homozigosidade variante UGT1A1* 28\n",
+    "description": "descrição",
+    "cancerTypes": "câncer colorretal",
+    "analysisObj": "sangue e esfregaço bucal (bochecha)",
+    "usedFor": "prever a toxicidade do tratamento com irinotecano"
+  },
+  {
+    "type": "marcador",
+    "title": "IDH1 e IDH2 Mutações nos genes\n",
+    "description": "descrição",
+    "cancerTypes": "leucemia mieloide aguda",
+    "analysisObj": "medula óssea e sangue",
+    "usedFor": "determinar se o tratamento com determinadas terapias-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "Imunoglobulinas\n",
+    "description": "descrição",
+    "cancerTypes": "mieloma múltiplo e macroglobulinemia de Waldenstrom",
+    "analysisObj": "sangue e urina",
+    "usedFor": "diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Instabilidade de microssatélites (MSI) e/ou incompatibilidade de reparo deficiente (dMMR)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer colorretal e outros tumores sólidos",
+    "analysisObj": "tumor",
+    "usedFor": "orientar o tratamento e identificar síndromes com alto risco de desenvolver câncer"
+  },
+  {
+    "type": "marcador",
+    "title": "JAK2 Mutação no gene\n",
+    "description": "descrição",
+    "cancerTypes": "determinados tipos de leucemia",
+    "analysisObj": "sangue e medula óssea",
+    "usedFor": "diagnóstico"
+  },
+  {
+    "type": "marcador",
+    "title": "KRAS  Mutação do gene\n",
+    "description": "descrição",
+    "cancerTypes": "câncer colorretal e câncer de pulmão de não pequenas células",
+    "analysisObj": "tumor",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "LDH (Desidrogenase láctica)\n",
+    "description": "descrição",
+    "cancerTypes": "tumores de células germinativas, linfoma, leucemia, melanoma e neuroblastoma",
+    "analysisObj": "sangue",
+    "usedFor": "estadiamento, prognóstico e monitorar a resposta ao tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "Peptídeos solúveis relacionados à mesotelina (SMRP)\n",
+    "description": "descrição",
+    "cancerTypes": "mesotelioma",
+    "analysisObj": "sangue",
+    "usedFor": "monitorar a progressão ou recidiva da doença"
+  },
+  {
+    "type": "marcador",
+    "title": "PD-L1 (Ligante de morte celular programada 1)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de pulmão de não pequenas células, câncer de fígado, câncer de estômago, câncer de junção gastroesofágica, linfoma de Hodgkin e outros subtipos de linfoma agressivo",
+    "analysisObj": "tumor",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "Proteína da matriz nuclear 22\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de bexiga",
+    "analysisObj": "urina",
+    "usedFor": "monitorar a resposta ao tratamento"
+  },
+  {
+    "type": "marcador",
+    "title": "PSA (Antígeno prostático específico)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de próstata",
+    "analysisObj": "sangue",
+    "usedFor": "diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "PCA3 mRNA\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de próstata",
+    "analysisObj": "urina (coletada após o exame retal digital)",
+    "usedFor": "determinar a necessidade de repetir biópsia após uma biópsia negativa"
+  },
+  {
+    "type": "marcador",
+    "title": "Receptor de estrogênio (ER)/Receptor de progesterona (PR)\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de mama",
+    "analysisObj": "tumor",
+    "usedFor": "determinar se o tratamento com hormonioterapia e algumas terapias-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "Receptor de somatostatina\n",
+    "description": "descrição",
+    "cancerTypes": "tumores neuroendócrinos que afetam o pâncreas ou o trato gastrointestinal",
+    "analysisObj": "tumor (por diagnóstico por imagem)",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "Reorganização do gene ROS1\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de pulmão de não pequenas células",
+    "analysisObj": "tumor",
+    "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
+  },
+  {
+    "type": "marcador",
+    "title": "Reorganização do gene da imunoglobulina de células B\n",
+    "description": "descrição",
+    "cancerTypes": "linfoma de células B",
+    "analysisObj": "sangue, medula óssea ou tecido tumoral",
+    "usedFor": "diagnóstico, avaliar eficácia do tratamento e verificar a avaliação da recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "Reorganização do gene do receptor de células T\n",
+    "description": "descrição",
+    "cancerTypes": "linfoma de células T",
+    "analysisObj": "medula óssea, tecido, líquido corporal e sangue",
+    "usedFor": "diagnóstico e, às vezes, diagnosticar e avaliar doenças residuais"
+  },
+  {
+    "type": "marcador",
+    "title": "Tiroglobulina\n",
+    "description": "descrição",
+    "cancerTypes": "câncer de tireoide",
+    "analysisObj": "sangue",
+    "usedFor": "monitorar a resposta ao tratamento e diagnosticar a recidiva"
+  },
+  {
+    "type": "marcador",
+    "title": "TPMT (Atividade enzimática da tiopurina S-metiltransferase) ou teste genético da TMPT\n",
+    "description": "descrição",
+    "cancerTypes": "leucemia linfoblástica aguda",
+    "analysisObj": "sangue e esfregaço bucal (bochecha)",
+    "usedFor": "prever o risco de toxicidade da medula óssea (mielossupressão) com o tratamento com tiopurina"
+  },
+  {
+    "type": "marcador",
+    "title": "5-HIAA\n",
+    "description": "descrição",
+    "cancerTypes": "tumores carcinóides",
+    "analysisObj": "urina",
+    "usedFor": "diagnóstico e monitorar a doença"
+  },
+  {
     "type": "cancer",
     "title": "Câncer de Fígado",
-    "description": "descricao 2",
+    "description": "descrição",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
-}, {
-        "type": "cancer",
-        "title": "Tumores de células germinativas\n",
-        "description": "descricao 3",
-        "cancerTypes": "",
-        "analysisObj": "",
-        "usedFor": ""
-    },
-    {
-        "type": "marcador",
-        "title": "ALK rearranjos e superexpressão\n",
-        "description": "descricao 4",
-        "cancerTypes": "câncer de pulmão de não pequenas células e linfoma anaplásico de grandes células",
-        "analysisObj": "tumor",
-        "usedFor": "determinar o tratamento e prognóstico"
-    }]
+  },
+  {
+    "type": "cancer",
+    "title": "Tumores de células germinativas\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de pulmão de não pequenas células\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Linfoma anaplásico de grandes células\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de mama\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de ovário\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de bexiga\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de pâncreas\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de estômago\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de próstata\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Mieloma múltiplo\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia linfoide crônica\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Coriocarcinoma\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Melanoma cutâneo\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Doença de Erdheim-Chester\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer colorretal\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de pulmão\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de rim\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de ureter\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Neuroblastoma\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Tumor estromal gastrointestinal\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Melanoma da mucosa\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia mieloide aguda\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Doença mastocitária\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de vesícula biliar\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de ducto biliar\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de estômago\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer medular da tireoide\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Linfoma não-Hodgkin\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia de células pilosas\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Neoplasias de células B\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Micose fungóide\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Linfoma de células T periférico\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Qualquer tumor sólido\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Tumores neuroendócrinos\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Carcinoma hepatocelular\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Linfoma\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Melanoma\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia linfocítica crônica\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia promielocítica aguda\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Tumor produtor de gastrina (gastrinoma)\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia mieloide crônica\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia linfoide aguda\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Macroglobulinemia de Waldenstrom\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Mesotelioma\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia mieloide crônica\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de junção gastroesofágica\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Linfoma de células B\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Linfoma de células T\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de tireoide\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Leucemia linfoblástica aguda\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Tumores carcinóides\n",
+    "description": "descrição",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  }
+]

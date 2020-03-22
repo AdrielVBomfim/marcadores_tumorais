@@ -103,7 +103,7 @@ class _SearchPageState extends State<SearchPage> {
           ),
         ),
       ),
-      body: ResultListPage(flag: _flag),
+      body: ResultListPage(flag: _flag, searchTerm: _searchController.text),
     );
   }
 }

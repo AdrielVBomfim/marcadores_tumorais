@@ -3,6 +3,7 @@ import 'package:flutter/widgets.dart';
 import 'package:marcadorestumorais/pages/result_list_page.dart';
 import 'package:marcadorestumorais/pages/search_page.dart';
 import 'util/dataParser.dart';
+import 'database/dao/encItemDAO.dart';
 
 //Inicia o Código
 void main() async {

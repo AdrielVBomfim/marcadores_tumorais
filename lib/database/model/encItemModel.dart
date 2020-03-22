@@ -11,6 +11,7 @@ String encItemToJson(EncItem data) => json.encode(data.toJson());
 class EncItem {
   String type;
   String title;
+  String description;
   String cancerTypes;
   String analysisObj;
   String usedFor;
@@ -18,6 +19,7 @@ class EncItem {
   EncItem({
     this.type,
     this.title,
+    this.description,
     this.cancerTypes,
     this.analysisObj,
     this.usedFor
@@ -26,6 +28,7 @@ class EncItem {
   factory EncItem.fromJson(Map<String, dynamic> json) => EncItem(
     type: json["type"],
     title: json["title"],
+    description: json["description"],
     cancerTypes: json["cancerTypes"],
     analysisObj: json["analysisObj"],
     usedFor: json["usedFor"]
@@ -34,6 +37,7 @@ class EncItem {
   Map<String, dynamic> toJson() => {
     "type": type,
     "title": title,
+    "description": description,
     "cancerTypes": cancerTypes,
     "analysisObj": analysisObj,
     "usedFor": usedFor

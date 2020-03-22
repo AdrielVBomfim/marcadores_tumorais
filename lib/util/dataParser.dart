@@ -14,7 +14,7 @@ Future loadData() async {
   List data = jsonDecode(jsonData);
 
   await Future.forEach(data, (item) async {
-    EncItem encItem = EncItem(type: item['type'], title: item['title'], cancerTypes: item['cancerTypes'], analysisObj: item['analysisObj'], usedFor: item['usedFor']);
+    EncItem encItem = EncItem(type: item['type'], title: item['title'], description: item['description'], cancerTypes: item['cancerTypes'], analysisObj: item['analysisObj'], usedFor: item['usedFor']);
     await encItemDao.insertEncItem(encItem);
   });
 }

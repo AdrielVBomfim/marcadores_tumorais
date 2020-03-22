@@ -3,6 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class ResultPage extends StatelessWidget {
+  String description;
+
+  ResultPage({this.description});
+
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
@@ -22,7 +26,7 @@ class ResultPage extends StatelessWidget {
             Container(
               margin: EdgeInsets.symmetric(horizontal: 30.0),
               child: Text(
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin condimentum ullamcorper. Etiam eget eleifend sem, ut ultricies mi. Morbi sit amet tellus scelerisque, laoreet purus nec, rhoncus orci. Vestibulum.',
+                description,
                 style: GoogleFonts.rubik(),
                 textAlign: TextAlign.justify,
               ),

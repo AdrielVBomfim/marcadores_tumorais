@@ -19,7 +19,7 @@ class HelpPage extends StatelessWidget{
                     Container(
                       margin: EdgeInsets.symmetric(horizontal: 30.0),
                       child: Text(
-                        'Marcadores Tumorais',
+                        'O que são Marcadores Tumorais?',
                         style:  GoogleFonts.rubik(
                             textStyle: TextStyle(fontSize: 20)
                         ),
@@ -30,7 +30,7 @@ class HelpPage extends StatelessWidget{
                     Container(
                       margin: EdgeInsets.symmetric(horizontal: 30.0),
                       child: Text(
-                        'Descrição',
+                        'Os marcadores tumorais são proteínas ou outras substâncias produzidas tanto por células normais quanto por células cancerígenas, mas em quantidades maiores pelas células cancerígenas. Eles podem ser encontrados no sangue, urina, fezes, tumores ou em outros tecidos ou fluídos corporais de alguns pacientes com câncer. No entanto, cada vez mais, marcadores genômicos, como mutações genéticas tumorais, padrões de expressão gênica tumoral e alterações não genéticas no DNA tumoral, estão sendo usados como marcadores tumorais.\n Existem vários marcadores tumorais em uso clínico. Alguns estão associados a apenas um tipo de câncer, enquanto outros estão relacionados a vários tipos de câncer. Não existe um marcador tumoral  "universal" que possa revelar a presença de qualquer tipo de neoplasia.',
                         style: GoogleFonts.rubik(),
                         textAlign: TextAlign.justify,
                       ),

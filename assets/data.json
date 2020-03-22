@@ -1,15 +1,15 @@
 [{
   "type": "marcador",
   "title": "Alfa-fetoproteína (AFP)",
-  "description": "descrição",
-    "cancerTypes": "câncer de fígado e tumores de células germinativas",
+  "description": "Tipos de câncer: câncer de fígado e tumores de células germinativas.\n O que é analisado: sangue.\n Uso: diagnóstico do câncer de fígado e monitorar a resposta ao tratamento; estadiamento, prognóstico e monitorar a resposta ao tratamento de tumores de células germinativas.",
+  "cancerTypes": "câncer de fígado e tumores de células germinativas",
   "analysisObj": "sangue",
   "usedFor": "diagnóstico do câncer de fígado e monitorar a resposta ao tratamento; estadiamento, prognóstico e monitorar a resposta ao tratamento de tumores de células germinativas"
 },
   {
     "type": "marcador",
     "title": "ALK rearranjos e superexpressão\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de pulmão de não pequenas células e linfoma anaplásico de grandes células.\n O que é analisado: tumor.\n Uso: determinar o tratamento e prognóstico.",
     "cancerTypes": "câncer de pulmão de não pequenas células e linfoma anaplásico de grandes células",
     "analysisObj": "tumor",
     "usedFor": "determinar o tratamento e prognóstico"
@@ -17,7 +17,7 @@
   {
     "type": "marcador",
     "title": "Amplificação do gene HER2/neu ou superexpressão de proteínas\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de mama, câncer de ovário, câncer de bexiga, câncer de pâncreas e câncer de estômago.\n O que é analisado: tumor.\n Uso: determinar se o tratamento com determinadas terapias-alvo é indicado.",
     "cancerTypes": "câncer de mama, câncer de ovário, câncer de bexiga, câncer de pâncreas e câncer de estômago",
     "analysisObj": "tumor",
     "usedFor": "determinar se o tratamento com determinadas terapias-alvo é indicado"
@@ -25,7 +25,7 @@
   {
     "type": "marcador",
     "title": "Ativador do plasminogênio da uroquinase (uPA) e inibidor do ativador do plasminogênio (PAI-1)\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de mama.\n O que é analisado: tumor.\n Uso: determinar a agressividade do tumor e orientar o tratamento.",
     "cancerTypes": "câncer de mama",
     "analysisObj": "tumor",
     "usedFor": "determinar a agressividade do tumor e orientar o tratamento"
@@ -33,7 +33,7 @@
   {
     "type": "marcador",
     "title": "Assinatura de 5 proteínas\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de ovário.\n O que é analisado: sangue.\n Uso: avaliar no pré-operatório a massa pélvica suspeita de câncer de ovário.",
     "cancerTypes": "câncer de ovário",
     "analysisObj": "sangue",
     "usedFor": "avaliar no pré-operatório a massa pélvica suspeita de câncer de ovário"
@@ -41,7 +41,7 @@
   {
     "type": "marcador",
     "title": "Assinatura de 17 genes\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de próstata.\n O que é analisado: tumor.\n Uso: prever a agressividade do tumor e monitorar o tratamento.",
     "cancerTypes": "câncer de próstata",
     "analysisObj": "tumor",
     "usedFor": "prever a agressividade do tumor e monitorar o tratamento"
@@ -49,7 +49,7 @@
   {
     "type": "marcador",
     "title": "Assinatura de 21 genes\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de mama.\n O que é analisado: tumor.\n Uso: avaliar o risco de recidiva e planejar o tratamento.",
     "cancerTypes": "câncer de mama",
     "analysisObj": "tumor",
     "usedFor": "avaliar o risco de recidiva e planejar o tratamento"
@@ -57,7 +57,7 @@
   {
     "type": "marcador",
     "title": "Assinatura de 46 genes\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de próstata.\n O que é analisado: tumor.\n Uso: prever a agressividade do tumor e monitorar o tratamento.",
     "cancerTypes": "câncer de próstata",
     "analysisObj": "tumor",
     "usedFor": "prever a agressividade do tumor e monitorar o tratamento"
@@ -65,7 +65,7 @@
   {
     "type": "marcador",
     "title": "Assinatura de 70 genes\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de mama.\n O que é analisado: tumor.\n Uso: avaliar o risco de recidiva.",
     "cancerTypes": "câncer de mama",
     "analysisObj": "tumor",
     "usedFor": "avaliar o risco de recidiva"
@@ -73,7 +73,7 @@
   {
     "type": "marcador",
     "title": "Beta-2-microglobulina (B2M)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: mieloma múltiplo, leucemia linfoide crônica e alguns linfomas.\n O que é analisado: sangue, urina ou líquido cefalorraquidiano.\n Uso: determinar o prognóstico e monitorar a resposta ao tratamento.",
     "cancerTypes": "mieloma múltiplo, leucemia linfoide crônica e alguns linfomas",
     "analysisObj": "sangue, urina ou líquido cefalorraquidiano",
     "usedFor": "determinar o prognóstico e monitorar a resposta ao tratamento"
@@ -81,7 +81,7 @@
   {
     "type": "marcador",
     "title": "Beta-hCG (Gonadotrofina coriônica humana beta)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: coriocarcinoma e tumores de células germinativas.\n O que é analisado: urina ou sangue.\n Uso: estadiamento, prognóstico e monitorar a resposta ao tratamento.",
     "cancerTypes": "coriocarcinoma e tumores de células germinativas",
     "analysisObj": "urina ou sangue",
     "usedFor": "estadiamento, prognóstico e monitorar a resposta ao tratamento"
@@ -89,7 +89,7 @@
   {
     "type": "marcador",
     "title": "BRAF V600\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: melanoma cutâneo, doença de Erdheim-Chester, câncer colorretal e câncer de pulmão de não pequenas células.\n O que é analisado: tumor.\n Uso: selecionar pacientes com maior probabilidade de se beneficiar do tratamento com determinadas terapias-alvo.",
     "cancerTypes": "melanoma cutâneo, doença de Erdheim-Chester, câncer colorretal e câncer de pulmão de não pequenas células",
     "analysisObj": "tumor",
     "usedFor": "selecionar pacientes com maior probabilidade de se beneficiar do tratamento com determinadas terapias-alvo"
@@ -97,7 +97,7 @@
   {
     "type": "marcador",
     "title": "BRCA1 e BRCA2 Mutações nos genes\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de ovário e câncer de mama.\n O que é analisado: sangue e/ou tumor\n Uso: determinar se o tratamento com um tipo específico de terapia-alvo é indicado.",
     "cancerTypes": "câncer de ovário e câncer de mama",
     "analysisObj": "sangue e/ou tumor",
     "usedFor": "determinar se o tratamento com um tipo específico de terapia-alvo é indicado"
@@ -105,7 +105,7 @@
   {
     "type": "marcador",
     "title": "BTA (Antígeno tumoral da bexiga)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de bexiga e câncer de rim ou ureter.\n O que é analisado: urina.\n Uso: vigilância com citologia e cistoscopia de pacientes diagnosticados com câncer de bexiga.",
     "cancerTypes": "câncer de bexiga e câncer de rim ou ureter",
     "analysisObj": "urina",
     "usedFor": "vigilância com citologia e cistoscopia de pacientes diagnosticados com câncer de bexiga"
@@ -113,15 +113,7 @@
   {
     "type": "marcador",
     "title": "Catecolaminas na urina: VMA e HVA\n",
-    "description": "descrição",
-    "cancerTypes": "neuroblastoma",
-    "analysisObj": "urina",
-    "usedFor": "diagnóstico"
-  },
-  {
-    "type": "marcador",
-    "title": "Catecolaminas na urina: VMA e HVA\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: neuroblastoma.\n O que é analisado: urina.\n Uso: diagnóstico.",
     "cancerTypes": "neuroblastoma",
     "analysisObj": "urina",
     "usedFor": "diagnóstico"
@@ -129,7 +121,7 @@
   {
     "type": "marcador",
     "title": "CEA (Antígeno carcinoembrionário)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer colorretal e alguns outros tipos de câncer.\n O que é analisado: sangue.\n Uso: monitorar a resposta ao tratamento e verificar se a doença recidivou ou se disseminou.",
     "cancerTypes": "câncer colorretal e alguns outros tipos de câncer",
     "analysisObj": "sangue",
     "usedFor": "monitorar a resposta ao tratamento e verificar se a doença recidivou ou se disseminou"
@@ -137,7 +129,7 @@
   {
     "type": "marcador",
     "title": "Células tumorais circulantes de origem epitelial\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de mama avançado, câncer de próstata e câncer colorretal.\n O que é analisado: sangue.\n Uso: prognóstico.",
     "cancerTypes": "câncer de mama avançado, câncer de próstata e câncer colorretal",
     "analysisObj": "sangue",
     "usedFor": "prognóstico"
@@ -145,7 +137,7 @@
   {
     "type": "marcador",
     "title": "C-kit/CD117\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: tumor estromal gastrointestinal, melanoma da mucosa, leucemia mieloide aguda e doença mastocitária.\n O que é analisado: tumor, sangue ou medula óssea.\n Uso: diagnóstico e determinação do tratamento.",
     "cancerTypes": "tumor estromal gastrointestinal, melanoma da mucosa, leucemia mieloide aguda e doença mastocitária",
     "analysisObj": "tumor, sangue ou medula óssea",
     "usedFor": "diagnóstico e determinação do tratamento"
@@ -153,7 +145,7 @@
   {
     "type": "marcador",
     "title": "CA15-3/CA27.29\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de mama.\n O que é analisado: sangue.\n Uso: monitorar a resposta ao tratamento e avaliação da recidiva.",
     "cancerTypes": "câncer de mama",
     "analysisObj": "sangue",
     "usedFor": "monitorar a resposta ao tratamento e avaliação da recidiva"
@@ -161,7 +153,7 @@
   {
     "type": "marcador",
     "title": "CA19-9\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de pâncreas, vesícula biliar, ducto biliar e gástrico.\n O que é analisado: sangue.\n Uso: monitorar a resposta ao tratamento.",
     "cancerTypes": "câncer de pâncreas, vesícula biliar, ducto biliar e gástrico",
     "analysisObj": "sangue",
     "usedFor": "monitorar a resposta ao tratamento"
@@ -169,7 +161,7 @@
   {
     "type": "marcador",
     "title": "CA-125\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de ovário.\n O que é analisado: sangue.\n Uso: diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva.",
     "cancerTypes": "câncer de ovário",
     "analysisObj": "sangue",
     "usedFor": "diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva"
@@ -185,7 +177,7 @@
   {
     "type": "marcador",
     "title": "CA 27.29\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de mama.\n O que é analisado: sangue.\n Uso: diagnosticar metástase ou avaliação da recidiva.",
     "cancerTypes": "câncer de mama",
     "analysisObj": "sangue",
     "usedFor": "diagnosticar metástase ou avaliação da recidiva"
@@ -193,7 +185,7 @@
   {
     "type": "marcador",
     "title": "Calcitonina\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer medular da tireoide.\n O que é analisado: sangue.\n Uso: diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva.",
     "cancerTypes": "câncer medular da tireoide",
     "analysisObj": "sangue",
     "usedFor": "diagnosticar metástase ou avaliação da recidiva"
@@ -201,7 +193,7 @@
   {
     "type": "marcador",
     "title": "CD20\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: linfoma não-Hodgkin.\n O que é analisado: sangue.\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "linfoma não-Hodgkin",
     "analysisObj": "sangue",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
@@ -209,7 +201,7 @@
   {
     "type": "marcador",
     "title": "CD22\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: leucemia de células pilosas e neoplasias de células B.\n O que é analisado: sangue e medula óssea.\n Uso: diagnóstico.",
     "cancerTypes": "leucemia de células pilosas e neoplasias de células B",
     "analysisObj": "sangue e medula óssea",
     "usedFor": "diagnóstico"
@@ -217,7 +209,7 @@
   {
     "type": "marcador",
     "title": "CD25\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: linfoma não Hodgkin (célula T).\n O que é analisado: sangue.\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "linfoma não Hodgkin (célula T)",
     "analysisObj": "sangue",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
@@ -225,7 +217,7 @@
   {
     "type": "marcador",
     "title": "CD30\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: micose fungóide e linfoma de células T periférico.\n O que é analisado: tumor.\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "micose fungóide e linfoma de células T periférico",
     "analysisObj": "tumor",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
@@ -233,7 +225,7 @@
   {
     "type": "marcador",
     "title": "CD33\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: leucemia mieloide aguda.\n O que é analisado: sangue.\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "leucemia mieloide aguda",
     "analysisObj": "sangue",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
@@ -241,7 +233,7 @@
   {
     "type": "marcador",
     "title": "CDx (F1CDx)\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: qualquer tumor sólido.\n O que é analisado: tumor.\n Uso: diagnóstico complementar para determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "qualquer tumor sólido",
     "analysisObj": "tumor",
     "usedFor": "diagnóstico complementar para determinar se o tratamento com terapia-alvo é indicado"
@@ -249,7 +241,7 @@
   {
     "type": "marcador",
     "title": "Cromogranina A (CgA)\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: tumores neuroendócrinos.\n O que é analisado: sangue.\n Uso: diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva.",
     "cancerTypes": "tumores neuroendócrinos",
     "analysisObj": "sangue",
     "usedFor": "diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva"
@@ -257,7 +249,7 @@
   {
     "type": "marcador",
     "title": "Cromossomos 3, 7, 17 e 9p21\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de bexiga.\n O que é analisado: urina.\n Uso: monitoramento da recidiva do tumor.",
     "cancerTypes": "câncer de bexiga",
     "analysisObj": "urina",
     "usedFor": "monitoramento da recidiva do tumor"
@@ -265,7 +257,7 @@
   {
     "type": "marcador",
     "title": "DCP (Des-gama-carboxi-protrombina)\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: carcinoma hepatocelular.\n O que é analisado: sangue.\n Uso: monitorar a eficácia do tratamento e diagnóstico da recidiva.",
     "cancerTypes": "carcinoma hepatocelular",
     "analysisObj": "sangue",
     "usedFor": "monitorar a eficácia do tratamento e diagnóstico da recidiva"
@@ -273,7 +265,7 @@
   {
     "type": "marcador",
     "title": "Desidrogenase láctica (LDH)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: tumores de células germinativas, linfoma, leucemia, melanoma e neuroblastoma.\n O que é analisado: sangue.\n Uso: estadiamento, prognóstico e monitorar a resposta ao tratamento.",
     "cancerTypes": "tumores de células germinativas, linfoma, leucemia, melanoma e neuroblastoma",
     "analysisObj": "sangue",
     "usedFor": "estadiamento, prognóstico e monitorar a resposta ao tratamento"
@@ -281,7 +273,7 @@
   {
     "type": "marcador",
     "title": "DPD Mutação no gene\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de mama, câncer colorretal, câncer de estômago e câncer de pâncreas.\n O que é analisado: sangue.\n Uso: prever o risco de uma reação tóxica ao tratamento com 5-fluorouracil.",
     "cancerTypes": "câncer de mama, câncer colorretal, câncer de estômago e câncer de pâncreas",
     "analysisObj": "sangue",
     "usedFor": "prever o risco de uma reação tóxica ao tratamento com 5-fluorouracil"
@@ -289,7 +281,7 @@
   {
     "type": "marcador",
     "title": "EGFR\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de pulmão de não pequenas células.\n O que é analisado: tumor.\n Uso: determinar o tratamento e o prognóstico.",
     "cancerTypes": "câncer de pulmão de não pequenas células",
     "analysisObj": "tumor",
     "usedFor": "determinar o tratamento e o prognóstico"
@@ -297,7 +289,7 @@
   {
     "type": "marcador",
     "title": "Enolase específica de neurônios (NSE)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de pulmão de pequenas células e neuroblastoma.\n O que é analisado: sangue.\n Uso: diagnóstico e monitorar a resposta ao tratamento.",
     "cancerTypes": "câncer de pulmão de pequenas células e neuroblastoma",
     "analysisObj": "sangue",
     "usedFor": "diagnóstico e monitorar a resposta ao tratamento"
@@ -305,7 +297,7 @@
   {
     "type": "marcador",
     "title": "Exclusão do cromossomo 17p\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: leucemia linfocítica crônica.\n O que é analisado: sangue.\n Uso: determinar se o tratamento com determinada terapia-alvo é indicado.",
     "cancerTypes": "leucemia linfocítica crônica",
     "analysisObj": "sangue",
     "usedFor": "determinar se o tratamento com determinada terapia-alvo é indicado"
@@ -313,7 +305,7 @@
   {
     "type": "marcador",
     "title": "FGFR2 e FGFR3 Mutações nos genes\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de bexiga.\n O que é analisado: tumor.\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "câncer de bexiga",
     "analysisObj": "tumor",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
@@ -321,7 +313,7 @@
   {
     "type": "marcador",
     "title": "FLT3 Mutações no gene\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: leucemia mieloide aguda.\n O que é analisado: sangue.\n Uso: determinar se o tratamento com determinadas terapias-alvo é indicado.",
     "cancerTypes": "leucemia mieloide aguda",
     "analysisObj": "sangue",
     "usedFor": "determinar se o tratamento com determinadas terapias-alvo é indicado"
@@ -329,7 +321,7 @@
   {
     "type": "marcador",
     "title": "Fibrina/Fibrinogênio\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de bexiga.\n O que é analisado: urina.\n Uso: monitorar a progressão e monitorar a resposta ao tratamento.",
     "cancerTypes": "câncer de bexiga",
     "analysisObj": "urina",
     "usedFor": "monitorar a progressão e monitorar a resposta ao tratamento"
@@ -337,7 +329,7 @@
   {
     "type": "marcador",
     "title": "Fragmento de citoqueratina 21-1\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de pulmão.\n O que é analisado: sangue.\n Uso: monitoramento da recidiva.",
     "cancerTypes": "câncer de pulmão",
     "analysisObj": "sangue",
     "usedFor": "monitoramento da recidiva"
@@ -345,7 +337,7 @@
   {
     "type": "marcador",
     "title": "Fosfatase ácida prostática (PAP)\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de próstata avançado.\n O que é analisado: sangue.\n Uso: diagnóstico de carcinomas pouco diferenciados.",
     "cancerTypes": "câncer de próstata avançado",
     "analysisObj": "sangue",
     "usedFor": "diagnóstico de carcinomas pouco diferenciados"
@@ -353,7 +345,7 @@
   {
     "type": "marcador",
     "title": "Fusão do gene PML/RARa\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: leucemia promielocítica aguda (LPA).\n O que é analisado: sangue e medula óssea.\n Uso: diagnosticar a LPA, prever a resposta à terapia com ácido trans-retinóico ou trióxido de arsênico, avaliar a eficácia do tratamento, monitorar a doença residual mínima e prever recidivas precoces.",
     "cancerTypes": "leucemia promielocítica aguda (LPA)",
     "analysisObj": "sangue e medula óssea",
     "usedFor": "diagnosticar a LPA, prever a resposta à terapia com ácido trans-retinóico ou trióxido de arsênico, avaliar a eficácia do tratamento, monitorar a doença residual mínima e prever recidivas precoces"
@@ -361,7 +353,7 @@
   {
     "type": "marcador",
     "title": "Gastrina\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: tumor produtor de gastrina (gastrinoma).\n O que é analisado: sangue.\n Uso: diagnóstico, monitorar a eficácia do tratamento e avaliação da recidiva.",
     "cancerTypes": "tumor produtor de gastrina (gastrinoma)",
     "analysisObj": "sangue",
     "usedFor": "diagnóstico, monitorar a eficácia do tratamento e avaliação da recidiva"
@@ -369,7 +361,7 @@
   {
     "type": "marcador",
     "title": "Gene de fusão BCR-ABL (cromossomo Philadelphia)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: leucemia mieloide crônica, leucemia linfoide aguda e leucemia mieloide aguda.\n O que é analisado: sangue ou medula óssea.\n Uso: diagnóstico, monitorar a resposta à terapia-alvo, determinar se o tratamento com um tipo específico de terapia-alvo é indicado e monitorar o status da doença.",
     "cancerTypes": "leucemia mieloide crônica, leucemia linfoide aguda e leucemia mieloide aguda",
     "analysisObj": "sangue ou medula óssea",
     "usedFor": "diagnóstico, monitorar a resposta à terapia-alvo, determinar se o tratamento com um tipo específico de terapia-alvo é indicado e monitorar o status da doença"
@@ -377,7 +369,7 @@
   {
     "type": "marcador",
     "title": "HE4\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de ovário.\n O que é analisado: sangue.\n Uso: planejamento do tratamento, avaliar a progressão da doença e monitorar a recidiva.",
     "cancerTypes": "câncer de ovário",
     "analysisObj": "sangue",
     "usedFor": "planejamento do tratamento, avaliar a progressão da doença e monitorar a recidiva"
@@ -385,7 +377,7 @@
   {
     "type": "marcador",
     "title": "Homozigosidade variante UGT1A1* 28\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer colorretal.\n O que é analisado: sangue e esfregaço bucal (bochecha).\n Uso: prever a toxicidade do tratamento com irinotecano.",
     "cancerTypes": "câncer colorretal",
     "analysisObj": "sangue e esfregaço bucal (bochecha)",
     "usedFor": "prever a toxicidade do tratamento com irinotecano"
@@ -393,7 +385,7 @@
   {
     "type": "marcador",
     "title": "IDH1 e IDH2 Mutações nos genes\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: leucemia mieloide aguda.\n O que é analisado: medula óssea e sangue.\n Uso: determinar se o tratamento com determinadas terapias-alvo é indicado.",
     "cancerTypes": "leucemia mieloide aguda",
     "analysisObj": "medula óssea e sangue",
     "usedFor": "determinar se o tratamento com determinadas terapias-alvo é indicado"
@@ -401,7 +393,7 @@
   {
     "type": "marcador",
     "title": "Imunoglobulinas\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: mieloma múltiplo e macroglobulinemia de Waldenstrom.\n O que é analisado: sangue e urina.\n Uso: diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva.",
     "cancerTypes": "mieloma múltiplo e macroglobulinemia de Waldenstrom",
     "analysisObj": "sangue e urina",
     "usedFor": "diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva"
@@ -409,7 +401,7 @@
   {
     "type": "marcador",
     "title": "Instabilidade de microssatélites (MSI) e/ou incompatibilidade de reparo deficiente (dMMR)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer colorretal e outros tumores sólidos.\n O que é analisado: tumor.\n Uso: orientar o tratamento e identificar síndromes com alto risco de desenvolver câncer.",
     "cancerTypes": "câncer colorretal e outros tumores sólidos",
     "analysisObj": "tumor",
     "usedFor": "orientar o tratamento e identificar síndromes com alto risco de desenvolver câncer"
@@ -417,7 +409,7 @@
   {
     "type": "marcador",
     "title": "JAK2 Mutação no gene\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: determinados tipos de leucemia.\n O que é analisado: sangue e medula óssea.\n Uso: diagnóstico.",
     "cancerTypes": "determinados tipos de leucemia",
     "analysisObj": "sangue e medula óssea",
     "usedFor": "diagnóstico"
@@ -425,23 +417,15 @@
   {
     "type": "marcador",
     "title": "KRAS  Mutação do gene\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer colorretal e câncer de pulmão de não pequenas células.\n O que é analisado: tumor.\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "câncer colorretal e câncer de pulmão de não pequenas células",
     "analysisObj": "tumor",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
   },
   {
     "type": "marcador",
-    "title": "LDH (Desidrogenase láctica)\n",
-    "description": "descrição",
-    "cancerTypes": "tumores de células germinativas, linfoma, leucemia, melanoma e neuroblastoma",
-    "analysisObj": "sangue",
-    "usedFor": "estadiamento, prognóstico e monitorar a resposta ao tratamento"
-  },
-  {
-    "type": "marcador",
     "title": "Peptídeos solúveis relacionados à mesotelina (SMRP)\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: mesotelioma.\n O que é analisado: sangue.\n Uso: monitorar a progressão ou recidiva da doença.",
     "cancerTypes": "mesotelioma",
     "analysisObj": "sangue",
     "usedFor": "monitorar a progressão ou recidiva da doença"
@@ -449,7 +433,7 @@
   {
     "type": "marcador",
     "title": "PD-L1 (Ligante de morte celular programada 1)\n",
-    "description": "descrição",
+    "description": "Tipos de câncer: câncer de pulmão de não pequenas células, câncer de fígado, câncer de estômago, câncer de junção gastroesofágica, linfoma de Hodgkin e outros subtipos de linfoma agressivo.\n O que é analisado: tumor.\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "câncer de pulmão de não pequenas células, câncer de fígado, câncer de estômago, câncer de junção gastroesofágica, linfoma de Hodgkin e outros subtipos de linfoma agressivo",
     "analysisObj": "tumor",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
@@ -457,7 +441,7 @@
   {
     "type": "marcador",
     "title": "Proteína da matriz nuclear 22\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de bexiga.\n O que é analisado: urina.\n Uso: monitorar a resposta ao tratamento.",
     "cancerTypes": "câncer de bexiga",
     "analysisObj": "urina",
     "usedFor": "monitorar a resposta ao tratamento"
@@ -465,7 +449,7 @@
   {
     "type": "marcador",
     "title": "PSA (Antígeno prostático específico)\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de próstata.\n O que é analisado: sangue.\n Uso: diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva.",
     "cancerTypes": "câncer de próstata",
     "analysisObj": "sangue",
     "usedFor": "diagnóstico, monitorar a resposta ao tratamento e avaliação da recidiva"
@@ -473,7 +457,7 @@
   {
     "type": "marcador",
     "title": "PCA3 mRNA\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de próstata.\n O que é analisado: urina (coletada após o exame retal digital).\n Uso: determinar a necessidade de repetir biópsia após uma biópsia negativa.",
     "cancerTypes": "câncer de próstata",
     "analysisObj": "urina (coletada após o exame retal digital)",
     "usedFor": "determinar a necessidade de repetir biópsia após uma biópsia negativa"
@@ -481,7 +465,7 @@
   {
     "type": "marcador",
     "title": "Receptor de estrogênio (ER)/Receptor de progesterona (PR)\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de mama.\n O que é analisado: tumor.\n Uso: determinar se o tratamento com hormonioterapia e algumas terapias-alvo é indicado.",
     "cancerTypes": "câncer de mama",
     "analysisObj": "tumor",
     "usedFor": "determinar se o tratamento com hormonioterapia e algumas terapias-alvo é indicado"
@@ -489,7 +473,7 @@
   {
     "type": "marcador",
     "title": "Receptor de somatostatina\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: tumores neuroendócrinos que afetam o pâncreas ou o trato gastrointestinal.\n O que é analisado: tumor (por diagnóstico por imagem).\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "tumores neuroendócrinos que afetam o pâncreas ou o trato gastrointestinal",
     "analysisObj": "tumor (por diagnóstico por imagem)",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
@@ -497,7 +481,7 @@
   {
     "type": "marcador",
     "title": "Reorganização do gene ROS1\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de pulmão de não pequenas células.\n O que é analisado: tumor\n Uso: determinar se o tratamento com terapia-alvo é indicado.",
     "cancerTypes": "câncer de pulmão de não pequenas células",
     "analysisObj": "tumor",
     "usedFor": "determinar se o tratamento com terapia-alvo é indicado"
@@ -505,7 +489,7 @@
   {
     "type": "marcador",
     "title": "Reorganização do gene da imunoglobulina de células B\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: linfoma de células B.\n O que é analisado: sangue, medula óssea ou tecido tumoral.\n Uso: diagnóstico, avaliar eficácia do tratamento e verificar a avaliação da recidiva.",
     "cancerTypes": "linfoma de células B",
     "analysisObj": "sangue, medula óssea ou tecido tumoral",
     "usedFor": "diagnóstico, avaliar eficácia do tratamento e verificar a avaliação da recidiva"
@@ -513,7 +497,7 @@
   {
     "type": "marcador",
     "title": "Reorganização do gene do receptor de células T\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: linfoma de células T.\n O que é analisado: medula óssea, tecido, líquido corporal e sangue.\n Uso: diagnóstico e, às vezes, diagnosticar e avaliar doenças residuais.",
     "cancerTypes": "linfoma de células T",
     "analysisObj": "medula óssea, tecido, líquido corporal e sangue",
     "usedFor": "diagnóstico e, às vezes, diagnosticar e avaliar doenças residuais"
@@ -521,7 +505,7 @@
   {
     "type": "marcador",
     "title": "Tiroglobulina\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: câncer de tireoide.\n O que é analisado: sangue.\n Uso: monitorar a resposta ao tratamento e diagnosticar a recidiva.",
     "cancerTypes": "câncer de tireoide",
     "analysisObj": "sangue",
     "usedFor": "monitorar a resposta ao tratamento e diagnosticar a recidiva"
@@ -529,7 +513,7 @@
   {
     "type": "marcador",
     "title": "TPMT (Atividade enzimática da tiopurina S-metiltransferase) ou teste genético da TMPT\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: leucemia linfoblástica aguda.\n O que é analisado: sangue e esfregaço bucal (bochecha).\n Uso: prever o risco de toxicidade da medula óssea (mielossupressão) com o tratamento com tiopurina.",
     "cancerTypes": "leucemia linfoblástica aguda",
     "analysisObj": "sangue e esfregaço bucal (bochecha)",
     "usedFor": "prever o risco de toxicidade da medula óssea (mielossupressão) com o tratamento com tiopurina"
@@ -537,7 +521,7 @@
   {
     "type": "marcador",
     "title": "5-HIAA\n",
-    "description": "descrição",
+    "description": "Tipo de câncer: tumores carcinóides.\n O que é analisado: urina.\n Uso: diagnóstico e monitorar a doença.",
     "cancerTypes": "tumores carcinóides",
     "analysisObj": "urina",
     "usedFor": "diagnóstico e monitorar a doença"
@@ -545,7 +529,7 @@
   {
     "type": "cancer",
     "title": "Câncer de Fígado",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Alfa-fetoproteína (AFP), PD-L1 (Ligante de morte celular programada 1)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -553,7 +537,7 @@
   {
     "type": "cancer",
     "title": "Tumores de células germinativas\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Alfa-fetoproteína (AFP), Beta-hCG (Gonadotrofina coriônica humana beta), Desidrogenase láctica (LDH)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -561,7 +545,15 @@
   {
     "type": "cancer",
     "title": "Câncer de pulmão de não pequenas células\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): ALK rearranjos e superexpressão, BRAF V600, EGFR, KRAS  Mutação do gene, PD-L1 (Ligante de morte celular programada 1), Reorganização do gene ROS1",
+    "cancerTypes": "",
+    "analysisObj": "",
+    "usedFor": ""
+  },
+  {
+    "type": "cancer",
+    "title": "Câncer de pulmão de não pequenas células e neuroblastoma\n",
+    "description": "Marcador(es) Tumoral(is): Enolase específica de neurônios (NSE)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -569,7 +561,7 @@
   {
     "type": "cancer",
     "title": "Linfoma anaplásico de grandes células\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): ALK rearranjos e superexpressão",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -577,7 +569,7 @@
   {
     "type": "cancer",
     "title": "Câncer de mama\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Amplificação do gene HER2/neu ou superexpressão de proteínas, Ativador do plasminogênio da uroquinase (uPA) e inibidor do ativador do plasminogênio (PAI-1), Assinatura de 21 genes, Assinatura de 70 genes, BRCA1 e BRCA2 Mutações nos genes, Células tumorais circulantes de origem epitelial, CA15-3/CA27.29, CA 27.29, DPD Mutação no gene, Receptor de estrogênio (ER)/Receptor de progesterona (PR)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -585,7 +577,7 @@
   {
     "type": "cancer",
     "title": "Câncer de ovário\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Amplificação do gene HER2/neu ou superexpressão de proteínas, Assinatura de 5 proteínas, BRCA1 e BRCA2 Mutações nos genes, CA-125, HE4",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -593,7 +585,7 @@
   {
     "type": "cancer",
     "title": "Câncer de bexiga\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Amplificação do gene HER2/neu ou superexpressão de proteínas, BTA (Antígeno tumoral da bexiga), Cromossomos 3, 7, 17 e 9p21, FGFR2 e FGFR3 Mutações nos genes, Fibrina/Fibrinogênio, Proteína da matriz nuclear 22",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -601,7 +593,7 @@
   {
     "type": "cancer",
     "title": "Câncer de pâncreas\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Amplificação do gene HER2/neu ou superexpressão de proteínas, CA19-9, DPD Mutação no gene",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -609,7 +601,7 @@
   {
     "type": "cancer",
     "title": "Câncer de estômago\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Amplificação do gene HER2/neu ou superexpressão de proteínas, DPD Mutação no gene, PD-L1 (Ligante de morte celular programada 1)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -617,7 +609,7 @@
   {
     "type": "cancer",
     "title": "Câncer de próstata\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Assinatura de 17 genes, Assinatura de 46 genes, Células tumorais circulantes de origem epitelial, Fosfatase ácida prostática (PAP), PSA (Antígeno prostático específico), PCA3 mRNA",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -625,7 +617,7 @@
   {
     "type": "cancer",
     "title": "Mieloma múltiplo\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Imunoglobulinas, Beta-2-microglobulina (B2M)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -633,7 +625,7 @@
   {
     "type": "cancer",
     "title": "Leucemia linfoide crônica\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Beta-2-microglobulina (B2M)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -641,7 +633,7 @@
   {
     "type": "cancer",
     "title": "Coriocarcinoma\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Beta-hCG (Gonadotrofina coriônica humana beta)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -649,7 +641,7 @@
   {
     "type": "cancer",
     "title": "Melanoma cutâneo\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): BRAF V600",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -657,7 +649,7 @@
   {
     "type": "cancer",
     "title": "Doença de Erdheim-Chester\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): BRAF V600",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -665,7 +657,7 @@
   {
     "type": "cancer",
     "title": "Câncer colorretal\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): BRAF V600, CEA (Antígeno carcinoembrionário), Células tumorais circulantes de origem epitelial, DPD Mutação no gene, Homozigosidade variante UGT1A1* 28, Instabilidade de microssatélites (MSI) e/ou incompatibilidade de reparo deficiente (dMMR), KRAS  Mutação do gene",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -673,7 +665,7 @@
   {
     "type": "cancer",
     "title": "Câncer de pulmão\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): BRAF V600, Fragmento de citoqueratina 21-1, ",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -681,7 +673,7 @@
   {
     "type": "cancer",
     "title": "Câncer de rim\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): BTA (Antígeno tumoral da bexiga)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -689,7 +681,7 @@
   {
     "type": "cancer",
     "title": "Câncer de ureter\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): BTA (Antígeno tumoral da bexiga)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -697,7 +689,7 @@
   {
     "type": "cancer",
     "title": "Neuroblastoma\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Catecolaminas na urina: VMA e HVA, Desidrogenase láctica (LDH), Enolase específica de neurônios (NSE)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -705,7 +697,7 @@
   {
     "type": "cancer",
     "title": "Tumor estromal gastrointestinal\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): C-kit/CD117",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -713,7 +705,7 @@
   {
     "type": "cancer",
     "title": "Melanoma da mucosa\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): C-kit/CD117",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -721,7 +713,7 @@
   {
     "type": "cancer",
     "title": "Leucemia mieloide aguda\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): C-kit/CD117, CD33, FLT3 Mutações no gene, Gene de fusão BCR-ABL (cromossomo Philadelphia), IDH1 e IDH2 Mutações nos genes",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -729,7 +721,7 @@
   {
     "type": "cancer",
     "title": "Doença mastocitária\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): C-kit/CD117",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -737,7 +729,7 @@
   {
     "type": "cancer",
     "title": "Câncer de vesícula biliar\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CA19-9",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -745,7 +737,7 @@
   {
     "type": "cancer",
     "title": "Câncer de ducto biliar\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CA19-9",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -753,7 +745,7 @@
   {
     "type": "cancer",
     "title": "Câncer de estômago\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CA19-9",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -761,7 +753,7 @@
   {
     "type": "cancer",
     "title": "Câncer medular da tireoide\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Amplificação do gene HER2/neu ou superexpressão de proteínas, DPD Mutação no gene, PD-L1 (Ligante de morte celular programada 1)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -769,7 +761,7 @@
   {
     "type": "cancer",
     "title": "Linfoma não-Hodgkin\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CD20",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -777,7 +769,7 @@
   {
     "type": "cancer",
     "title": "Leucemia de células pilosas\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CD22",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -785,7 +777,7 @@
   {
     "type": "cancer",
     "title": "Neoplasias de células B\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CD22",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -793,7 +785,7 @@
   {
     "type": "cancer",
     "title": "Micose fungóide\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CD30",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -801,7 +793,7 @@
   {
     "type": "cancer",
     "title": "Linfoma de células T periférico\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CD30",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -809,7 +801,7 @@
   {
     "type": "cancer",
     "title": "Qualquer tumor sólido\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): CDx (F1CDx)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -817,7 +809,7 @@
   {
     "type": "cancer",
     "title": "Tumores neuroendócrinos\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Cromogranina A (CgA), Receptor de somatostatina",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -825,7 +817,7 @@
   {
     "type": "cancer",
     "title": "Carcinoma hepatocelular\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): DCP (Des-gama-carboxi-protrombina)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -833,7 +825,7 @@
   {
     "type": "cancer",
     "title": "Linfoma\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Beta-2-microglobulina (B2M), Desidrogenase láctica (LDH), PD-L1 (Ligante de morte celular programada 1)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -841,7 +833,7 @@
   {
     "type": "cancer",
     "title": "Leucemia\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Desidrogenase láctica (LDH), JAK2 Mutação no gene, LDH (Desidrogenase láctica)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -849,7 +841,7 @@
   {
     "type": "cancer",
     "title": "Melanoma\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): LDH (Desidrogenase láctica)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -857,7 +849,7 @@
   {
     "type": "cancer",
     "title": "Leucemia linfocítica crônica\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Exclusão do cromossomo 17p",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -865,7 +857,7 @@
   {
     "type": "cancer",
     "title": "Leucemia promielocítica aguda\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Fusão do gene PML/RARα",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -873,7 +865,7 @@
   {
     "type": "cancer",
     "title": "Tumor produtor de gastrina (gastrinoma)\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Gastrina",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -881,7 +873,7 @@
   {
     "type": "cancer",
     "title": "Leucemia mieloide crônica\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Gene de fusão BCR-ABL (cromossomo Philadelphia)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -889,7 +881,7 @@
   {
     "type": "cancer",
     "title": "Leucemia linfoide aguda\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Gene de fusão BCR-ABL (cromossomo Philadelphia)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -897,7 +889,7 @@
   {
     "type": "cancer",
     "title": "Macroglobulinemia de Waldenstrom\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Imunoglobulinas",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -905,15 +897,7 @@
   {
     "type": "cancer",
     "title": "Mesotelioma\n",
-    "description": "descrição",
-    "cancerTypes": "",
-    "analysisObj": "",
-    "usedFor": ""
-  },
-  {
-    "type": "cancer",
-    "title": "Leucemia mieloide crônica\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Peptídeos solúveis relacionados à mesotelina (SMRP)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -921,7 +905,7 @@
   {
     "type": "cancer",
     "title": "Câncer de junção gastroesofágica\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): PD-L1 (Ligante de morte celular programada 1)",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -929,7 +913,7 @@
   {
     "type": "cancer",
     "title": "Linfoma de células B\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Reorganização do gene da imunoglobulina de células B",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -937,7 +921,7 @@
   {
     "type": "cancer",
     "title": "Linfoma de células T\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Reorganização do gene do receptor de células T",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -945,7 +929,7 @@
   {
     "type": "cancer",
     "title": "Câncer de tireoide\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): Tiroglobulina",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -953,7 +937,7 @@
   {
     "type": "cancer",
     "title": "Leucemia linfoblástica aguda\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): TPMT (Atividade enzimática da tiopurina S-metiltransferase) ou teste genético da TMPT",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""
@@ -961,7 +945,7 @@
   {
     "type": "cancer",
     "title": "Tumores carcinóides\n",
-    "description": "descrição",
+    "description": "Marcador(es) Tumoral(is): 5-HIAA",
     "cancerTypes": "",
     "analysisObj": "",
     "usedFor": ""

@@ -4,6 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:marcadorestumorais/database/model/encItemModel.dart';
 import 'package:marcadorestumorais/pages/result_list_page.dart';
 import '../database/dao/encItemDAO.dart';
+import 'package:marcadorestumorais/pages/help_Page.dart';
 
 //Tela de Buscar Item
 class SearchPage extends StatefulWidget {
@@ -124,6 +125,16 @@ class _SearchPageState extends State<SearchPage> {
                 ),
               ),
               body: ResultListPage(flag: _flag, filteredList: filteredList),
+              floatingActionButton: FloatingActionButton(
+                child: Icon(Icons.help),
+                backgroundColor: Colors.brown,
+                onPressed: (){
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => HelpPage()));
+                },
+              ),
             );
         });
   }
